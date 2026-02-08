@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-a-y-a-n-k
+- 👋 Hi, I’m Mayank
 - 👀 I’m interested in Fullstack Web Software Development
 - 🌱 I’m currently learning how to build scalable , robust and performant web apps.
 - 💞️ I’m looking to collaborate on some fun projects
